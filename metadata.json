@@ -1,0 +1,21 @@
+{
+    "title": "Exercise: Python Sum of Squares with range()",
+    "slug": "exercise-python-sum-of-squares-range",
+    "description": "Compute the sum of squares from 1 to 100 using the accumulator method in Python. Practices for loops, range(), and summation patterns.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python",
+        "exercise"
+    ],
+    "duration": 8,
+    "prerequisites": [
+        "python-range-in-for-loops",
+        "programming-accumulator-pattern",
+        "maths-summation-notation"
+    ],
+    "related": [
+        "sample-solution-1-python-sum-of-squares-range"
+    ]
+}
