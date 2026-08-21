@@ -6,7 +6,7 @@ $$
 
 Print your final result. The expected final value is `338350`.
 
-#Hint
+# Hint
 
 >[!HIDDEN]
 > Remember the second argument passed to `range`{.python} is exclusive, so to include 100 in the range, you should use `range(1, 101)`{.python}.
