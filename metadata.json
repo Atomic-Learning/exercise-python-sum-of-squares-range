@@ -9,7 +9,7 @@
         "python",
         "exercise"
     ],
-    "duration": 8,
+    "duration": 10,
     "prerequisites": [
         "python-range-in-for-loops",
         "programming-accumulator-pattern",
